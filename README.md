@@ -1,1 +1,1 @@
-# metodo_dos_minimos_quadrados
+Elaborei uma planilha com um caso hipotético de negócios para treinar alguns conhecimentos de cálculo numérico e ciência de dados. No fim, podemos utilizar o método dos mínimos quadrados para elaborar uma análise preditiva dos dados quantitativos em relação à associação de "receita" com "lucro".
